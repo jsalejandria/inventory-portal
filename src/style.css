@@ -32,7 +32,7 @@
 }
 
 #itemWrapper {
-  margin: 20px;
+  margin: 20px 0px;
   display: flex;
   flex-direction: row;
   flex: 1;
@@ -59,7 +59,7 @@
   width: 16rem;
 }
 
-#iconWrapper {
+.iconWrapper {
   display: flex;
   justify-content: end;
 }

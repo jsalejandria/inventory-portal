@@ -3,11 +3,11 @@
     {
       "name": "Coke Zero",
       "unit": "bottle",
-      "price": "80.56",
-      "expiry": "Jun 28, 2023",
+      "price": "85.00",
+      "expiry": "Jun 30, 2023",
       "stocks": "100",
-      "totalValue": "8,056.00",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE135Lag9U6xdQx94PobV2ugNePHc-ufqbdA&usqp=CAU",
+      "totalValue": "8,500.00",
+      "photo": "https://images.freshop.com/1564405684702543768/07cefc6b9dac056244fa78b495fa91c1_large.png",
       "id": 7924856420056581
     },
     {
@@ -15,7 +15,7 @@
       "unit": "bar",
       "price": "155.80",
       "expiry": "Sep 30, 2023",
-      "stocks": "20,000",
+      "stocks": "200",
       "totalValue": "1,316,000.00",
       "photo": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/a/n/anchor-pure-new-zealand-butter-unsalted-227g_1.jpg",
       "id": 5693971889535290
@@ -45,7 +45,7 @@
       "unit": "tube",
       "price": "99.25",
       "expiry": "Mar 9, 2024",
-      "stocks": "5,000",
+      "stocks": "500",
       "totalValue": "496,250.00",
       "photo": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/h/a/hapee-toothpaste-fresh-cool-white-150ml_2.jpg",
       "id": 8863979902046171
@@ -55,10 +55,20 @@
       "unit": "bottle",
       "price": "80.00",
       "expiry": "Jun 30, 2023",
-      "stocks": "2,500",
+      "stocks": "500",
       "totalValue": "200,000.00",
       "photo": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/a/l/alcohol-isopropyl-alcohol-250ml_2.jpg",
       "id": 1993458010621174
+    },
+    {
+      "name": "Japanese Rice",
+      "unit": "5-kg sack",
+      "price": "500.00",
+      "expiry": "Jun 29, 2023",
+      "stocks": "500",
+      "totalValue": "250,000.00",
+      "photo": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/k/a/kanto-japanese-rice-5kg_1.jpg",
+      "id": 3617455808394652
     }
   ]
 }
