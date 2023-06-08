@@ -69,7 +69,7 @@ const ItemForm = (props) => {
               />
             </Form.Group>
             <Form.Group className="mb-3" controlId="exampleForm.ControlInput6">
-              <Form.Label>Upload Image:</Form.Label>
+              <Form.Label>Image URL:</Form.Label>
               <Form.Control type="url" onChange={props.handleItemPic} />
             </Form.Group>
             <div id="buttonWrapper">
