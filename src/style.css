@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Roboto:wght@500&display=swap");
+
+* {
+  font-family: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  font-size: 30px;
+  font-family: "Lato";
+}
+
+#newItemBtn {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+#buttonWrapper {
+  display: flex;
+  justify-content: end;
+  gap: 20px;
+}
+
+.trash,
+.edit {
+  height: 25px;
+  width: 25px;
+  margin-left: 20px;
+}
+
+#itemWrapper {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  flex-wrap: wrap;
+}
+
+.item {
+  margin: 40px 80px;
+}
+
+#photoWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+#nameWrapper {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+#productPhoto {
+  height: 200px;
+  width: 16rem;
+}
+
+#iconWrapper {
+  display: flex;
+  justify-content: end;
+}
+
+.trash {
+  filter: invert(13%) sepia(83%) saturate(4586%) hue-rotate(4deg)
+    brightness(85%) contrast(124%);
+  margin-right: 20px;
+}
+
+.edit:hover,
+.trash:hover {
+  cursor: pointer;
+  opacity: 60%;
+}

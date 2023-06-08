@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "name": "Coke Zero",
+      "unit": "bottle",
+      "price": "80.56",
+      "expiry": "Jun 28, 2023",
+      "stocks": "100",
+      "totalValue": "8,056.00",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE135Lag9U6xdQx94PobV2ugNePHc-ufqbdA&usqp=CAU",
+      "id": 7924856420056581
+    },
+    {
+      "name": "Butter",
+      "unit": "bar",
+      "price": "155.80",
+      "expiry": "Sep 30, 2023",
+      "stocks": "20,000",
+      "totalValue": "1,316,000.00",
+      "photo": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/a/n/anchor-pure-new-zealand-butter-unsalted-227g_1.jpg",
+      "id": 5693971889535290
+    },
+    {
+      "name": "Eden Cheese",
+      "unit": "bar",
+      "price": "55.56",
+      "expiry": "Jun 30, 2023",
+      "stocks": "25",
+      "totalValue": "1,389.00",
+      "photo": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/cache/d166c7ea81ddc4172de536322110c911/e/d/eden-cheese-original-165g_2.jpg",
+      "id": 4499280739460689
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "unit": "gallon",
+      "price": "359.16",
+      "expiry": "Jan 31, 2024",
+      "stocks": "95",
+      "totalValue": "34,120.20",
+      "photo": "https://www.allday.com.ph/media/catalog/product/c/o/contadina-extra-virgin-olive-oil-500ml_2.jpg",
+      "id": 924426540599487
+    },
+    {
+      "name": "Toothpaste",
+      "unit": "tube",
+      "price": "99.25",
+      "expiry": "Mar 9, 2024",
+      "stocks": "5,000",
+      "totalValue": "496,250.00",
+      "photo": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/h/a/hapee-toothpaste-fresh-cool-white-150ml_2.jpg",
+      "id": 8863979902046171
+    },
+    {
+      "name": "Isopropyl Alcohol",
+      "unit": "bottle",
+      "price": "80.00",
+      "expiry": "Jun 30, 2023",
+      "stocks": "2,500",
+      "totalValue": "200,000.00",
+      "photo": "https://d2t3trus7wwxyy.cloudfront.net/catalog/product/a/l/alcohol-isopropyl-alcohol-250ml_2.jpg",
+      "id": 1993458010621174
+    }
+  ]
+}

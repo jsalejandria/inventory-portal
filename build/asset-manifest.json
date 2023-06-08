@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inventory-portal/static/css/main.d4e98714.css",
+    "main.js": "/inventory-portal/static/js/main.ddd14334.js",
+    "index.html": "/inventory-portal/index.html",
+    "static/media/edit.svg": "/inventory-portal/static/media/edit.c846b91bc57c7f0f2387a7dfba100025.svg",
+    "static/media/trash.svg": "/inventory-portal/static/media/trash.bcf8d6ff346603c8a51ab63a51579941.svg",
+    "main.d4e98714.css.map": "/inventory-portal/static/css/main.d4e98714.css.map",
+    "main.ddd14334.js.map": "/inventory-portal/static/js/main.ddd14334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4e98714.css",
+    "static/js/main.ddd14334.js"
+  ]
+}
