@@ -20,4 +20,7 @@ A simple inventory application
 
 ## Screenshot
 ![image](https://github.com/jsalejandria/inventory-portal/assets/114486659/a360d9a1-a81c-4513-88ae-10a673742418)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 327d0727 (Added edit functionality)
