@@ -1,7 +1,7 @@
 # Project Overview
 
 ## Description
-A simple inventory application.
+A simple inventory application
 
 ## Features
 > Create and product entry with the following information:
@@ -11,7 +11,7 @@ A simple inventory application.
   - Expiry Date
   - Stocks on Hand
   - Total Value of Inventory
-
+> Edit details of an existing product entry
 > Delete product entry
 
 ## Frameworks
