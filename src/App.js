@@ -114,8 +114,9 @@ const App = () => {
         return response.data;
       });
       itemServices.getAll().then((response) => {
-        setItems(items.filter((item) => item.id !== idDelete));
+        setItems(response.data);
       });
+      setItems(items.filter((item) => item.id !== idDelete));
     }
   };
 
