@@ -46,6 +46,7 @@ const ItemForm = (props) => {
               <Form.Control
                 type="number"
                 value={props.newPrice}
+                min="0"
                 onChange={props.handleNewPrice}
                 required
               />
@@ -64,6 +65,7 @@ const ItemForm = (props) => {
               <Form.Control
                 type="number"
                 value={props.newStocks}
+                min="0"
                 onChange={props.handleNewStocks}
                 required
               />

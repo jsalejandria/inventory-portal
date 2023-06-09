@@ -103,6 +103,7 @@ const App = () => {
     const idDelete = Number(event.target.id);
     const itemDelete = event.target.name;
     console.log(itemDelete);
+    event.preventDefault();
 
     if (
       window.confirm(
